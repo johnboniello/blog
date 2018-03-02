@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+John is the Bilingual Special Education Specialist for the Lower Hudson RSE-TASC.  He is also an adjunct professor at Manhattanville College.  
 
 Reasons:
 - its great.
